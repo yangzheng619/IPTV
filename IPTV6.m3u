@@ -282,7 +282,11 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
 #EXTINF:-1 tvg-id="newtv金牌综艺" tvg-name="newtv金牌综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV金牌综艺.png" group-title="数字频道",金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
-扬州新闻频道,http://cm-wshls.homecdn.com/live/8bb.m3u8
-扬州城市http://cm-wshls.homecdn.com/live/8bd.m3u8
-扬州生活,http://cm-wshls.homecdn.com/live/8bf.m3u8
-邗江综合,http://cm-wshls.homecdn.com/live/8c3.m3u8
+#EXTINF:-1 tvg-id="扬州新闻频道" tvg-name="扬州新闻频道" group-title="地方频道",扬州新闻频道
+http://cm-wshls.homecdn.com/live/8bb.m3u8
+#EXTINF:-1 tvg-id="扬州城市" tvg-name="扬州城市" group-title="地方频道",扬州城市
+http://cm-wshls.homecdn.com/live/8bd.m3u8
+#EXTINF:-1 tvg-id="扬州生活" tvg-name="扬州生活" group-title="地方频道",扬州生活
+http://cm-wshls.homecdn.com/live/8bf.m3u8
+#EXTINF:-1 tvg-id="邗江综合" tvg-name="邗江综合" group-title="地方频道",邗江综合
+http://cm-wshls.homecdn.com/live/8c3.m3u8
